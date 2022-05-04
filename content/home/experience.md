@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.yuanbaobaoxian.cn/'
     company_logo: org-gc
     location: Beijing, China
-    date_start: 'Nov. 2019'
-    date_end: 'Aug. 2021'
+    date_start: '2019-11'
+    date_end: '2021-08'
     description: |2-
         Responsibilities include:
         
@@ -41,8 +41,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Beijing, China
-    date_start: 'Jun. 2018'
-    date_end: 'Nov. 2019'
+    date_start: ''
+    date_end: ''
     description: Development and maintenance of the company’s basic services, StormEye, a weather service that will affect the company’s daily revenue. Different weathers have different revenue for each takeaway order. Worked on various small full stack projects with high proficiency in Golang, JavaScript and Objective-C.
 design:
   columns: '2'
