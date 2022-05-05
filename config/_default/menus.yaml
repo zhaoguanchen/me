@@ -7,24 +7,31 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Experience
+    url: '#experience'
     weight: 20
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: Posts
+    url: "#posts"
     weight: 50
+  - name: Skills
+    url: "#skills"
+    weight: 40
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: CV
+  # - name: CV
+  #   url: uploads/resume.pdf
+  #   weight: 70
+
+
+main_right:
+  - name: "<i class='ai ai-cv' style='font-size:1.5rem;line-height:1.25'></i>"
     url: uploads/resume.pdf
-    weight: 70
+    weight: 40
+ 

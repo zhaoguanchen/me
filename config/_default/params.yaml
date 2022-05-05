@@ -13,19 +13,19 @@ appearance:
 
 # SEO
 
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
+# marketing:
+#   seo:
+#     site_type: Person
+#     local_business_type: ''
+#     org_name: ''
+#     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+#     twitter: 'wowchemy'
+#   analytics:
+#     google_analytics: ''
+#     baidu_tongji: ''
+#   verification:
+#     google: ''
+#     baidu: ''
 
 # Site header
 
@@ -66,13 +66,13 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/zhaoguanchen/me'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle

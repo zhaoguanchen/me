@@ -38,7 +38,7 @@ experience:
 
   - title: Software Engineer
     company: Bitauto Holdings Limited
-    company_url: ''
+    company_url: 'http://www.bitauto.com/'
     company_logo: org-x
     location: Beijing, China
     date_start: '2018-07-05'
