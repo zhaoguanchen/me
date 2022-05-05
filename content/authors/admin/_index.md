@@ -43,7 +43,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/zhaoguanchen
-  - icon: linkedin
+  - icon: linkedin-in
     icon_pack: fab
     link: https://www.linkedin.com/in/gczhao
 
