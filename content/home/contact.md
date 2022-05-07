@@ -29,8 +29,8 @@ content:
  # phone: 888 888 88 88
   address:
     city: Seattle
-    region: WA
-    postcode: '98402'
+    region: WA, USA
+    postcode: 
     country: United States
     country_code: US
  # coordinates:
