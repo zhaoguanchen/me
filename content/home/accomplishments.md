@@ -4,7 +4,7 @@
 widget: accomplishments
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -26,30 +26,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
+  - certificate_url: https://courses.cognitiveclass.ai/certificates/761849168c3643b19f1d992894d76832
+    date_end: '2021-12-06'
+    date_start: '2021-11-11'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    organization: Cognitive Class
+    organization_url: https://cognitiveclass.ai
+    title: Introduction to Containers, Kubernetes, and OpenShift V2
+    url: 'https://cognitiveclass.ai/courses/kubernetes-course'
 
 design:
   columns: '2'
