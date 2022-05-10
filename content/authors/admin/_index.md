@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Background Service
+  - Distributed System
   - Restful Service
-  - Cloud 
+  - Backend Application
 
 # Education to show in About widget
 education:
@@ -28,11 +28,11 @@ education:
     - course: Master of Science in Computer Science and Systems
       institution: University of Washington
       year: Sep. 2020 - Mar. 2022
-      schoolbadge: /UW.png
+      schoolbadge: image/uw.png
     - course: Bachelor of Engineering in Computer Science and Technology
       institution: University of Science and Technology Beijing
       year: Sep. 2014 - Jul. 2018
-      schoolbadge: /USTB.png
+      schoolbadge: image/ustb.png
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
