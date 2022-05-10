@@ -5,7 +5,7 @@ widget: pages
 # Activate this widget? true/false
 active: false
 # This file represents a page section.
-headless: true
+headless: fasle
 
 # Order that this section appears on the page.
 weight: 90
