@@ -29,6 +29,8 @@ content:
       tag: '*'
     - name: Spring Boot
       tag: Spring Boot
+    - name: JavaFX
+      tag: JavaFX
     - name: Other
       tag: Other
 
