@@ -66,8 +66,10 @@ email: 'guanchenzhao@gmail.com'
 highlight_name: true
 ---
 
-Guanchen Zhao is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Guanchen Zhao is a professional developer who focuses on `Backend Service` and `Distributed System`. He has strong knowledge of Java, Spring Boot,  MySQL, and other middleware. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He has a strong interest in software development and can quickly understand business models. At work, he gets along very well with team members and cooperative teams, which plays an important role in promoting efficient cooperation.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Guanchen Zhao is keen on outdoor sports such as long-distance riding and hiking. In the past year, he has visited various famous hiking trails around Seattle, such as Mt. Rainer. He is always willing to try new things and keeping to learn from them.
+
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
