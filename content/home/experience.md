@@ -29,8 +29,7 @@ experience:
     location: Beijing, China
     date_start: '2019-11-15'
     date_end: '2021-08-20'
-    description: |2-
-<img data-src="/media/binance.jpg" alt="alibaba" style="padding-bottom: 30px;" class="lazyload">
+    description: |2- 
        Description:
         
         * CSS is the 
