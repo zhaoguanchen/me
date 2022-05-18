@@ -25,13 +25,13 @@ experience:
   - title: Senior Engineer
     company: Yuanbao
     company_url: 'https://www.yuanbaobaoxian.cn/'
-    company_logo: c
+    company_logo: '/image/yuanbao-icon.jpeg'
     location: Beijing, China
     date_start: '2019-11-15'
     date_end: '2021-08-20'
     description: |2-
        Description:
-        <img data-src="/media/icons/apple.jpg" alt="eleme" style="padding-bottom: 30px;" class="lazyload">
+        <img data-src="/image/yuanbao_big.png" alt="eleme" style="padding-bottom: 30px;" class="lazyload">
         * CSS is the 
 
         Responsibilities include:
