@@ -29,19 +29,14 @@ experience:
     location: Beijing, China
     date_start: '2019-11-15'
     date_end: '2021-08-20'
-    description: |2-
-       Description:
-        <img data-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4273872-bitauto-super-safe-target-is-highly-undervalued&psig=AOvVaw2JScOKPhGBX-5xwvihl12N&ust=1652983092138000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCdgoLQ6fcCFQAAAAAdAAAAABAl" alt="uw" style="padding-bottom: 30px;">
-        * CSS is the 
+    description: """
+<img data-src="/uploads/weixin.jpeg" alt="alibaba" style="padding-bottom: 30px;" class="lazyload">
 
-        Responsibilities include:
-        
-        * Led a team consisting of 7 engineers to implement from scratch and successfully launch the firm’s first Strategy Distribution Engine – Themis, a smart strategy engine based on traffic flow and predicate conditions’ strategy, which provides handy service for vendors and consumers; Build strategy ecosystem, including Themis backend service, Themis-cli (deployment tool), Themis-admin(management configuration system), and Themis-SDK (developers suite of integrated for iOS/Android/H5).
-        * nriched Taco ecosystem by implementing Taco V2, an infura-like API gateway on top of Golang backend services, which used MySQL and Redis as high-performance database, RabbitMQ and Kafka as message queue, Hive, Blink and Elasticsearch as data and message pipeline query, and gRPC, Apache Thrift and HTTP as communication protocol.
-        * Development and maintenance of the company’s basic services, StormEye, a weather service that will affect the company’s daily revenue. Different weathers have different revenue for each takeaway order. Worked on various small full stack projects with high proficiency in Golang, JavaScript and Objective-C.
+- Led a team consisting of 7 engineers to implement from scratch and successfully launch the firm’s first Strategy Distribution Engine – Themis, a smart strategy engine based on traffic flow and predicate conditions’ strategy, which provides handy service for vendors and consumers; Build strategy ecosystem, including Themis backend service, Themis-cli (deployment tool), Themis-admin(management configuration system), and Themis-SDK (developers suite of integrated for iOS/Android/H5). 
+- Designed architecture of native service mesh cloud app on top of Golang backend services, using MySQL and Redis as high-performance database, Prow, Bazel as CI/CD, Hive, ClickHouse as data statistics and AWS by K8s + Istio as deployment environment.
+- Themis ecosystem managed to accumulate 200 million users within 10 days of its release to the public, with delivery rate above 97%, daily peak value over  5000k and online connections averaged 10k-15k QPS.
 
-
-
+"""
 
 
   - title: Software Engineer
