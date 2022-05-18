@@ -16,12 +16,12 @@ links:
   - icon: github
     icon_pack: fab
     name: Follow
-    url: https://github.com/zhaoguanchen/JavaFx-Lab-Resource-System
-
-url_code: 'https://github.com/zhaoguanchen/JavaFx-Lab-Resource-System'
-# url_pdf: ''
-# url_slides: ''
-url_video: 'https://youtu.be/U4hvyrmi904'
+    url: https://github.com/zhaoguanchen
+ 
+url_code: 'https://github.com/zhaoguanchen/IMS'
+url_pdf: '/uploads/pdf/report.pdf'
+url_slides: '/uploads/slides/ims.pptx'
+url_video: 'https://youtu.be/03hlfeOkhHE'
 
 
 # Slides (optional).
