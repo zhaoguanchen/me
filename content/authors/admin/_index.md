@@ -1,47 +1,15 @@
 ---
-# Display name
-title: Guanchen Zhao
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: Software Engineer
-
-# Organizations/Affiliations to show in About widget
-# organizations:
-#  - name: Stanford University
-#    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+bio: My research interests include backend service, distributed system, and
+  database system.
 interests:
+  - Backend Service
   - Distributed System
-  - Restful Service
-  - Backend Application
-
-# Education to show in About widget
-education:
-  courses:
-    - course: Master of Science in Computer Science and Systems
-      institution: University of Washington
-      year: Sep. 2020 - Mar. 2022
-      schoolbadge: '/image/uw.png'
-    - course: Bachelor of Engineering in Computer Science and Technology
-      institution: University of Science and Technology Beijing
-      year: Sep. 2014 - Jul. 2018
-      schoolbadge: 'https://gczhao.me/image/uw.png'
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Database
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:guanchenzhao@gmail.com'
+    link: mailto:guanchenzhao@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/zhaoguanchen
@@ -51,19 +19,28 @@ social:
   - icon: weixin
     icon_pack: fab
     link: uploads/weixin.jpeg
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'guanchenzhao@gmail.com'
-
-# Highlight the author in author lists? (true/false)
+  - display:
+      header: false
+    icon_pack: far
+    link: https://gczhao.cn
+    icon: weixin
+education:
+  courses:
+    - course: Master of Science in Computer Science and Systems
+      institution: University of Washington
+      year: Sep. 2020 - Mar. 2022
+      schoolbadge: /image/uw.png
+    - course: Bachelor of Engineering in Computer Science and Technology
+      institution: University of Science and Technology Beijing
+      year: Sep. 2014 - Jul. 2018
+      schoolbadge: https://gczhao.me/image/uw.png
+email: guanchenzhao@gmail.com
+superuser: true
 highlight_name: true
+title: Guanchen Zhao
 ---
 
 Guanchen Zhao is a professional developer who focuses on `Backend Service` and `Distributed System`. He has strong knowledge of Java, Spring Boot,  MySQL, and other middleware. 
