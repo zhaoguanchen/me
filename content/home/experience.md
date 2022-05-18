@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Engineer
+  - title: Senior Software Engineer
     company: Yuanbao
     company_url: 'https://www.yuanbaobaoxian.cn/'
     company_logo: 
@@ -30,7 +30,7 @@ experience:
     date_start: '2019-11-15'
     date_end: '2021-08-20'
     description: |2-
-       <img data-src="https://gczhao.me/image/yuanbao_big.png" alt="alibaba" style="padding-bottom: 30px;" class="lazyload">
+       <img src="https://gczhao.me/image/yuanbao_big.png" />
 
       - Led a team consisting of 7 engineers to implement from scratch and successfully launch the firm’s first Strategy Distribution Engine – Themis, a smart strategy engine based on traffic flow and predicate conditions’ strategy, which provides handy service for vendors and consumers; Build strategy ecosystem, including Themis backend service, Themis-cli (deployment tool), Themis-admin(management configuration system), and Themis-SDK (developers suite of integrated for iOS/Android/H5). 
       - Designed architecture of native service mesh cloud app on top of Golang backend services, using MySQL and Redis as high-performance database, Prow, Bazel as CI/CD, Hive, ClickHouse as data statistics and AWS by K8s + Istio as deployment environment.
