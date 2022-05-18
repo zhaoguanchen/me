@@ -25,7 +25,7 @@ experience:
   - title: Senior Engineer
     company: Yuanbao
     company_url: 'https://www.yuanbaobaoxian.cn/'
-    company_logo: 'uw.png'
+    company_logo: c
     location: Beijing, China
     date_start: '2019-11-15'
     date_end: '2021-08-20'
@@ -47,7 +47,7 @@ experience:
   - title: Software Engineer
     company: Bitauto Holdings Limited
     company_url: 'http://www.bitauto.com/'
-    company_logo: uw
+    company_logo: c
     location: Beijing, China
     date_start: '2018-07-05'
     date_end: '2019-11-14'
