@@ -25,7 +25,7 @@ experience:
   - title: Senior Software Engineer
     company: Yuanbao
     company_url: 'https://www.yuanbaobaoxian.cn/'
-    company_logo: 
+    company_logo: uw
     location: Beijing, China
     date_start: '2019-11-15'
     date_end: '2021-08-20'
