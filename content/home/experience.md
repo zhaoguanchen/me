@@ -31,7 +31,7 @@ experience:
     date_end: '2021-08-20'
     description: |2-
        Description:
-        
+        <img data-src="/media/icons/apple.jpg" alt="eleme" style="padding-bottom: 30px;" class="lazyload">
         * CSS is the 
 
         Responsibilities include:
@@ -51,7 +51,8 @@ experience:
     location: Beijing, China
     date_start: '2018-07-05'
     date_end: '2019-11-14'
-    description: Development and maintenance of the company’s basic services, StormEye, a weather service that will affect the company’s daily revenue. Different weathers have different revenue for each takeaway order. Worked on various small full stack projects with high proficiency in Golang, JavaScript and Objective-C.
+    description: 
+      Development and maintenance of the company’s basic services, StormEye, a weather service that will affect the company’s daily revenue. Different weathers have different revenue for each takeaway order. Worked on various small full stack projects with high proficiency in Golang, JavaScript and Objective-C.
 design:
   columns: '2'
 ---
