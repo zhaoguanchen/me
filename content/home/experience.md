@@ -25,11 +25,12 @@ experience:
   - title: Senior Engineer
     company: Yuanbao
     company_url: 'https://www.yuanbaobaoxian.cn/'
-    company_logo: 'https://gczhao.me/image/uw.png'
+    company_logo: https://gczhao.me/image/uw.png
     location: Beijing, China
     date_start: '2019-11-15'
     date_end: '2021-08-20'
     description: |2-
+<img data-src="/media/binance.jpg" alt="alibaba" style="padding-bottom: 30px;" class="lazyload">
        Description:
         
         * CSS is the 
