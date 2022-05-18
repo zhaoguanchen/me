@@ -1,6 +1,6 @@
 ---
 title: IMS
-summary: An Inventory Management System.
+summary: An Inventory Management System developed with SpringBoot, MySQL, Mybatis, Mybatis-Plus, and Redis.
 tags:
   - Spring Boot
 date: '2021-12-10T00:00:00Z'
