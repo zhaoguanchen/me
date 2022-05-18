@@ -25,7 +25,7 @@ experience:
   - title: Senior Engineer
     company: Yuanbao
     company_url: 'https://www.yuanbaobaoxian.cn/'
-    company_logo: org-gc
+    company_logo: 'https://gczhao.me/image/uw.png'
     location: Beijing, China
     date_start: '2019-11-15'
     date_end: '2021-08-20'
