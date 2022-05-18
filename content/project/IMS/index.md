@@ -29,7 +29,7 @@ url_video: 'https://youtu.be/03hlfeOkhHE'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides:
+slides: ''
 ---
 
 # IMS - an inventory management system
