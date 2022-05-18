@@ -31,7 +31,7 @@ experience:
     date_end: '2021-08-20'
     description: |2-
        Description:
-        <img data-src="/image/yuanbao_big.png" alt="eleme" style="padding-bottom: 30px;" class="lazyload">
+        <img data-src="image/yuanbao_big.png" alt="eleme" style="padding-bottom: 30px;" class="lazyload">
         * CSS is the 
 
         Responsibilities include:
