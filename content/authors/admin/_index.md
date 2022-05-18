@@ -28,11 +28,11 @@ education:
     - course: Master of Science in Computer Science and Systems
       institution: University of Washington
       year: Sep. 2020 - Mar. 2022
-      schoolbadge: /image/uw.png
+      schoolbadge: '/image/uw.png'
     - course: Bachelor of Engineering in Computer Science and Technology
       institution: University of Science and Technology Beijing
       year: Sep. 2014 - Jul. 2018
-      schoolbadge: /image/ustb.png
+      schoolbadge: 'https://gczhao.me/image/uw.png'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
