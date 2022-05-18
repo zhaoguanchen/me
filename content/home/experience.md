@@ -31,7 +31,7 @@ experience:
     date_end: '2021-08-20'
     description: |2-
        Description:
-        <img data-src="https://gczhao.me/image/uw.png" alt="uw" style="padding-bottom: 30px;">
+        <img data-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4273872-bitauto-super-safe-target-is-highly-undervalued&psig=AOvVaw2JScOKPhGBX-5xwvihl12N&ust=1652983092138000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCdgoLQ6fcCFQAAAAAdAAAAABAl" alt="uw" style="padding-bottom: 30px;">
         * CSS is the 
 
         Responsibilities include:
