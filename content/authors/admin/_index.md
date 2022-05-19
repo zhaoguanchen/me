@@ -22,11 +22,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-  - display:
-      header: false
-    icon_pack: far
+  - icon_pack: fab
     link: https://gczhao.cn
-    icon: weixin
+    icon: blog
 education:
   courses:
     - course: Master of Science in Computer Science and Systems
