@@ -8,11 +8,11 @@ date: '2021-03-10T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
-editable: true  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
+reading_time: true  # Show estimated reading time?
+share: true  # Show social sharing links?
+profile: true  # Show author profile?
+commentable: true  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
+editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
 # Featured image
 # To use, place an image named `featured.jpg/png` in your page's folder.
