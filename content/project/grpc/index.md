@@ -54,7 +54,7 @@ url_video: 'https://youtu.be/U4hvyrmi904'
 slides: ''
 ---
 
-# JavaFX Project
+# gRPC
 
 This is a Lab Resource Sharing System that was developed with JavaFX.
 
@@ -113,4 +113,10 @@ Click Run -> Run... to run the project, now it should work fine.
 ## Other
 
 email guanchenzhao@gmail.com for more information.
+
+
+
+
+
+
 
