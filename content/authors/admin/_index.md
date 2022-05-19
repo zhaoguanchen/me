@@ -22,7 +22,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-  - icon_pack: fab
+  - icon_pack: fas
     link: https://gczhao.cn
     icon: blog
 education:
