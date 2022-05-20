@@ -46,14 +46,8 @@ experience:
     location: Beijing, China
     date_start: '2018-07-05'
     date_end: '2019-11-14'
-    description: |2-
-      - Participated in the secondary development and maintenance of the big data platform based on CDH.
-Mainly responsible for Oozie and HUE.
-      - Participated in the design and development of the Data Quality System, which monitors the data changes of the tables in the data warehouse and data mart. The data quality system regularly collects and calculates data according to the collection items, rule items and alarm rules set by the user. After comparing with historical data or dimension table data, the abnormal data information that triggers the alarm rule will be notified to users through SMS, email, App and other channels.
-      - Used Spring Boot and Spring Cloud as MicroService Framework.
-
-
-
+    description: 
+      Development and maintenance of the company’s basic services, StormEye, a weather service that will affect the company’s daily revenue. Different weathers have different revenue for each takeaway order. Worked on various small full stack projects with high proficiency in Golang, JavaScript and Objective-C.
 design:
   columns: '2'
 ---
