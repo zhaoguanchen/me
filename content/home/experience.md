@@ -32,10 +32,10 @@ experience:
     description: |2-
 
        <img src="https://gczhao.me/image/experience/yuanbao_big.png" />
-Company Profile
+ 
       - Yuanbao is an Internet insurance platform launched in 2020. As of May 2021, Yuanbao has accumulated millions of paying users and its business covers more than 90% of China. At the same time, it has completed the C round of financing of nearly RMB 1 billion.
 
-Main Responsibility
+ 
       - Led a team consisting of 3 engineers to implement from scratch and successfully launch the firm’s first Customer Service System – CSS, which provides customers with product consultation and complaint handling services through the hotline, WeChat and AI assistants. 
       - Designed architecture of native service mesh cloud app on top of Golang backend services, using MySQL and Redis as high-performance database, Prow, Bazel as CI/CD, Hive, ClickHouse as data statistics and AWS by K8s + Istio as deployment environment.
       - Themis ecosystem managed to accumulate 200 million users within 10 days of its release to the public, with delivery rate above 97%, daily peak value over 5000k and online connections averaged 10k-15k QPS.
@@ -53,7 +53,7 @@ Main Responsibility
     description: |2-
 
     <img src="https://gczhao.me/image/experience/yuanbao_big.png" />
-Company Profile
+ 
       - Yuanbao is an Internet insurance platform launched in 2020. As of May 2021, Yuanbao has accumulated millions of paying users and its business covers more than 90% of China. At the same time, it has completed the C round of financing of nearly RMB 1 billion.
 
 Main Responsibility
