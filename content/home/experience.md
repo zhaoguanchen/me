@@ -30,7 +30,8 @@ experience:
     date_start: '2019-11-15'
     date_end: '2021-08-20'
     description: |2-
-<img src="https://gczhao.me/image/experience/yuanbao_big.png" />
+
+# <img src="https://gczhao.me/image/experience/yuanbao_big.png" />
     Company Profile: 
       - Led a team consisting of 7 engineers to implement from scratch and successfully launch the firm’s first Strategy Distribution Engine – Themis, a smart strategy engine based on traffic flow and predicate conditions’ strategy, which provides handy service for vendors and consumers; Build strategy ecosystem, including Themis backend service, Themis-cli (deployment tool), Themis-admin(management configuration system), and Themis-SDK (developers suite of integrated for iOS/Android/H5).  
     Responsibility:
