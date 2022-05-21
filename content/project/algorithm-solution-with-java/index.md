@@ -7,8 +7,7 @@ summary: This project is a collection of problem solutions to the leetcode
   algorithm implemented in Java.
 draft: false
 featured: false
-authors:
-  - Guanchen
+
 tags:
   - Leetcode
   - Java
@@ -17,10 +16,15 @@ links:
     icon_pack: fab
     icon: github
     name: Follow
+
+url_code: 'https://github.com/zhaoguanchen/leetcode'
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
+
 image:
-  filename: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.yoreoyster.com%2Freview%2Fleetcode%2F&psig=AOvVaw1VBy1Fg4lGVNWGnfwGRI1F&ust=1653178184536000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCLr-Wm7_cCFQAAAAAdAAAAABAD
+  caption:
   focal_point: Smart
-  preview_only: false
 ---
 This project is a collection of problem solutions to the leetcode algorithm implemented in Java.
 
