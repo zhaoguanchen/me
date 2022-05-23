@@ -47,8 +47,10 @@ experience:
     location: Beijing, China
     date_start: '2018-07-05'
     date_end: '2019-11-14'
-    description: |2-       
-     Responsibility: 
+    description: |2-
+      Yuanbao is an Internet insurance platform launched in 2020. As of May 2021, Yuanbao has accumulated millions of paying users and its business covers more than 90% of China. At the same time, it has completed the C round of financing of nearly RMB 1 billion. <img src="https://gczhao.me/image/experience/yuanbao_big.png" /> 
+     
+      Responsibility: 
         - Participated in the development of Data Quality System, which  monitors data changes in the data warehouse in multiple dimensions according to preset rules, and pushes alerts to relevant groups. 
         - Used Spring Boot and Spring Cloud as MicroService Framework.
         - Participated in the secondary development and maintenance of the big data platform based on [CDH](https://www.cloudera.com/products/open-source/apache-hadoop/key-cdh-components.html). Mainly responsible for Oozie and HUE.
