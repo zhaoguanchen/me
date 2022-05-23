@@ -40,7 +40,7 @@ email: guanchenzhao@gmail.com
 superuser: true
 highlight_name: true
 ---
-Guanchen Zhao is a professional developer who focuses on `Backend Service` and `Distributed System`. Guanchen Zhao has nearly 3 years of full-time working experience in the field of back-end services. He is good at the development of Spring-based web services and distributed systems. He also has in-depth understanding and rich application experience for database systems (Mysql), cache middleware (Redis), and message queue middleware (Kafka).
+Guanchen Zhao is a professional developer who focuses on `Backend Service` and `Distributed System`. Guanchen Zhao has nearly 3 years of full-time working experience in the field of back-end services. He is good at the development of Spring-based web services and distributed systems. He also has in-depth understanding and rich application experience for database systems (MySQL), cache middleware (Redis), and message queue middleware (Kafka).
 
 He has a strong interest in software development and can quickly understand business models. At work, he gets along very well with team members and cooperative teams, which plays an important role in promoting efficient cooperation.
 
