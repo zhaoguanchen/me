@@ -29,6 +29,10 @@ content:
       tag: '*'
     - name: Spring Boot
       tag: Spring Boot
+    - name: Algorithm
+      tag: Algorithm
+    - name: gRPC
+      tag: gRPC
     - name: JavaFX
       tag: JavaFX
     - name: Other

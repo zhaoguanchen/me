@@ -9,8 +9,7 @@ draft: false
 featured: false
 
 tags:
-  - Leetcode
-  - Java
+  - Algorithm
 links:
   - url: https://github.com/zhaoguanchen/leetcode
     icon_pack: fab
