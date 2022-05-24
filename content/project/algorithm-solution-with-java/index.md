@@ -2,7 +2,7 @@
 title: Algorithm Solution With Java
 subtitle: This project is a collection of problem solutions to the leetcode
   algorithm implemented in Java.
-date: 2022-01-21T00:01:15.428Z
+date: 2022-01-01T00:01:15.428Z
 summary: This project is a collection of problem solutions to the leetcode
   algorithm implemented in Java.
 draft: false
