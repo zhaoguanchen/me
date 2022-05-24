@@ -1,6 +1,6 @@
 ---
-title: A simple AES encryption system using gRPC
-summary: A simple AES encryption system using gRPC.
+title: A gRPC project based on AES cryptosystem.
+summary: A gRPC project based on AES cryptosystem.
 tags:
   - gRPC
 date: '2021-03-10T00:00:00Z'
@@ -38,12 +38,12 @@ links:
   - icon: github
     icon_pack: fab
     name: Follow
-    url: https://github.com/zhaoguanchen/JavaFx-Lab-Resource-System
+    url: https://github.com/zhaoguanchen/grpc-cipher
 
-url_code: 'https://github.com/zhaoguanchen/JavaFx-Lab-Resource-System'
+url_code: 'https://github.com/zhaoguanchen/grpc-cipher'
 # url_pdf: ''
 # url_slides: ''
-url_video: 'https://youtu.be/U4hvyrmi904'
+url_video: 'https://youtu.be/Yl7gV_KAfGk'
 
 
 # Slides (optional).
@@ -54,61 +54,45 @@ url_video: 'https://youtu.be/U4hvyrmi904'
 slides: ''
 ---
 
-# gRPC
+# gRPC Project
 
-This is a Lab Resource Sharing System that was developed with JavaFX.
+## What is gRPC?
 
-## Tech Stack
+In gRPC, a client application can directly call a method on a server application on a different machine as if it were a local object, making it easier for you to create distributed applications and services. As in many RPC systems, gRPC is based around the idea of defining a service, specifying the methods that can be called remotely with their parameters and return types. On the server side, the server implements this interface and runs a gRPC server to handle client calls. On the client side, the client has a stub (referred to as just a client in some languages) that provides the same methods as the server.
 
-**Framework**
 
-We choose [JavaFX](https://openjfx.io/) to develop this desktop application. JavaFX is an open-source, next-generation client application platform for desktop, mobile, and embedded systems built on Java.
 
-**Database**
+![Concept Diagram](https://grpc.io/img/landing-2.svg)
 
-MySQL (RDS on AWS)
 
-## How to run
 
-The recommand IDE is **IntelliJ IDEA**.
+gRPC clients and servers can run and talk to each other in a variety of environments - from servers inside Google to your own desktop - and can be written in any of gRPC’s supported languages. So, for example, you can easily create a gRPC server in Java with clients in Go, Python, or Ruby. In addition, the latest Google APIs will have gRPC versions of their interfaces, letting you easily build Google functionality into your applications.
 
-### 1. Set JDK 11
+By default, gRPC uses [Protocol Buffers](https://developers.google.com/protocol-buffers/docs/overview), Google’s mature open source mechanism for serializing structured data (although it can be used with other data formats such as JSON).
 
-Go to File -> Project Structure -> Project, and set the project SDK to 11. You can also set the language level to 11.
+## What is this project?
 
-### 2. Create a library
+The function of this project is RSA encryption. We established a server with encryption and decryption function, and created relevant clients to call.
 
-Go to File -> Project Structure -> Libraries and add the libs/ as a library to the project.
+This project consists of two parts: server (under `/RPC` directory) and client (under `/client` directory).
 
-### 3. Add VM options
+## How to Run?
 
-Go to Preferences (File -> Settings) -> Appearance & Behavior -> Path Variables, define the name of the variable as PATH_TO_FX, browse to the lib folder of the `/libs` to set its value, and click apply.  Also, you can download the latest version of `JavaFX` and redefine the variable path.
+The base IDE is **Eclipse**.
 
-  
+### 1. Start Server
 
-click on Run -> Edit Configurations... and add VM options:
+The start function is located at `rpc/src/main/java/GRCPServer.java`. click `Run as Java Application`.
 
-```
---module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml
-```
+### 2. Start Client
 
-### 4. Modify Database Connection
+The start function is located at `client/src/main/java/client/GrpcClient.java`. click `Run as Java Application`.
 
-The path that saves the database information is `gczhao/database/DatabaseHandler.java`. Remember to replace these settings with your database information.
-
-### 5. Execute SQL Statement
-
-The script is located at `sql/script.sql`, which includes DDL and DML.
-
-### 6. Run the project
-
-Click Run -> Run... to run the project, now it should work fine.  
-
-​					
+Then you will see the parameters and results in the console window.
 
 ## Demo
 
-[Click](https://youtu.be/U4hvyrmi904) to watch the demo video.
+Please click [HERE](https://youtu.be/Yl7gV_KAfGk) to watch the demo video.
 
 ## Other
 
