@@ -18,4 +18,5 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+ 
 This is a classroom management system, which can be used to manage and book the classrooms, study rooms and laboratories of the electromechanical building.
