@@ -2,7 +2,7 @@
 title: Guanchen Zhao
 role: Software Engineer
 bio: My research interests include backend service, distributed system, and
-  database system.
+  relational database management system.
 interests:
   - Backend Service
   - Distributed System
