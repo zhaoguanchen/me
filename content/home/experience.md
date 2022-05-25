@@ -48,7 +48,7 @@ experience:
     date_start: '2018-07-05'
     date_end: '2019-11-14'
     description: |2-
-      Yuanbao is an Internet insurance platform launched in 2020. As of May 2021, Yuanbao has accumulated millions of paying users and its business covers more than 90% of China. At the same time, it has completed the C round of financing of nearly RMB 1 billion. <img src="https://gczhao.me/image/experience/yuanbao_big.png" /> 
+      Founded in 2000, Bitauto was listed on the New York Stock Exchange in 2010 and became a member of the Tencent family in November 2020 when it completed its privatization. As a leading automotive Internet company in China, Bitauto provides professional and rich Internet information and shopping guide services for Chinese auto users, and effective Internet marketing solutions for auto manufacturers and auto dealers. <img src="https://gczhao.me/image/experience/yiche.jpeg" /> 
      
       Responsibility: 
         - Participated in the development of Data Quality System, which  monitors data changes in the data warehouse in multiple dimensions according to preset rules, and pushes alerts to relevant groups. 
