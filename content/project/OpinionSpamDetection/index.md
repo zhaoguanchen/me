@@ -15,6 +15,10 @@ links:
     icon_pack: fab
     name: Follow
     url: https://github.com/zhaoguanchen/Machine-Learning
+
+url_pdf: '/uploads/pdf/opspam.pdf'
+url_slides: '/uploads/slides/opsp.pptx'
+
 image:
   filename: featured
   focal_point: Smart
@@ -27,5 +31,5 @@ We selected three models, LSTB, Bret and LR, for training and comparison respect
 
 By implementing data analysis, data cleaning, preprocessing, feature extraction and modeling, we successfully trained spam detection models with a compatible performance with SOTA results. Our results demonstrate the effectiveness of machine learning in finding linguistic patterns and the ability to contribute to the human commercial society.
 
-Please click [HERE]() to see the report.
+Please click [HERE](https://gczhao.me/uploads/pdf/opspam.pdf) to see the report.
 
