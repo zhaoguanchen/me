@@ -44,4 +44,4 @@ He has a strong interest in software development and can quickly understand busi
 
 Guanchen Zhao is keen on outdoor sports such as long-distance riding and hiking. In the past year, he has visited various famous hiking trails around Seattle, such as Mt. Rainer. He is always willing to try new things and keeping to learn from them.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
