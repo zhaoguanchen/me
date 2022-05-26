@@ -28,14 +28,12 @@ social:
     icon: blog
 education:
   courses:
-    - course: Master of Science in Computer Science and Systems
+    - course: M.S. in Computer Science and Systems
       institution: University of Washington
-      year: Sep. 2020 - Mar. 2022
-      schoolbadge: /image/ustb.svg
-    - course: Bachelor of Engineering in Computer Science and Technology
+      year: Sep. 2020 - Mar. 2022 
+    - course: B.E. in Computer Science and Technology
       institution: University of Science and Technology Beijing
-      year: Sep. 2014 - Jul. 2018
-      schoolbadge: /image/ustb.svg
+      year: Sep. 2014 - Jul. 2018 
 email: guanchenzhao@gmail.com
 superuser: true
 highlight_name: true
