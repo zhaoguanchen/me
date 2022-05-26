@@ -20,7 +20,6 @@ image:
 
  <iframe
        src="./ProjectFinal.html"
-       width="90%"
-       height="1000px"
+       width="100%"
        style="border:none;">
  </iframe>

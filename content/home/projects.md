@@ -35,6 +35,8 @@ content:
       tag: gRPC
     - name: JavaFX
       tag: JavaFX
+    - name: Machine Learning
+      tag: Machine Learning
     - name: Other
       tag: Other
 
