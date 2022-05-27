@@ -29,11 +29,9 @@ social:
 education:
   courses:
     - course: Master of Science in Computer Science and Systems
-      institution: University of Washington
-      year: Sep. 2020 - Mar. 2022
+      institution: University of Washington, USA, Sep. 2020 - Mar. 2022
     - course: Bachelor of Engineering in Computer Science and Technology
-      institution: University of Science and Technology Beijing
-      year: Sep. 2014 - Jul. 2018
+      institution: University of Science and Technology Beijing, China, Sep. 2014 - Jul. 2018
 email: guanchenzhao@gmail.com
 superuser: true
 highlight_name: true
