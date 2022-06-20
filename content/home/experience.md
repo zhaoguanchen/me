@@ -33,7 +33,7 @@ experience:
       Yuanbao is an Internet insurance platform launched in 2020. As of May 2021, Yuanbao has accumulated millions of paying users and its business covers more than 90% of China. At the same time, it has completed the C round of financing of nearly RMB 1 billion. <img src="https://gczhao.me/image/experience/yuanbao_big.png" /> 
        
       Responsibility: 
- 		  - Led a team of three engineers to implement from scratch and successfully launch the firm’s first Customer Service System, which provides product consultation and complaint handling services to customers through the hotline, WeChat and intelligent assistant.
+      - Led a team of three engineers to implement from scratch and successfully launch the firm’s first Customer Service System, which provides product consultation and complaint handling services to customers through the hotline, WeChat and intelligent assistant.
       - Designed micro-services architecture based on Spring boot and Dubbo, using MySQL and Redis Cluster as high-performance database, Kafka as message queue, Zookeeper for configuration.
       - Using Jenkins, Maven and Gitlab as CI/CD pipeline. Using ACK (Alibaba Cloud Container Service for Kubernetes) as the deployment environment for scalability. Using Alibaba OSS as file storage.
       - Built WeCom microservice based on SDK to implement online customer service handling process.
