@@ -33,8 +33,11 @@ experience:
       Yuanbao is an Internet insurance platform launched in 2020. As of May 2021, Yuanbao has accumulated millions of paying users and its business covers more than 90% of China. At the same time, it has completed the C round of financing of nearly RMB 1 billion. <img src="https://gczhao.me/image/experience/yuanbao_big.png" /> 
        
       Responsibility: 
-        - Led a team consisting of 3 engineers to implement from scratch and successfully launch the firm’s first Customer Service System – CSS, which provides customers with product consultation and complaint handling services through the hotline, WeChat and AI assistants. 
-
+ 		    - Led a team of three engineers to implement from scratch and successfully launch the firm’s first Customer Service System, which provides product consultation and complaint handling services to customers through the hotline, WeChat and intelligent assistant.
+        - Designed micro-services architecture based on Spring boot and Dubbo, using MySQL and Redis Cluster as high-performance database, Kafka as message queue, Zookeeper for configuration.
+        - Using Jenkins, Maven and Gitlab as CI/CD pipeline. Using ACK (Alibaba Cloud Container Service for Kubernetes) as the deployment environment for scalability. Using Alibaba OSS as file storage.
+        - Built WeCom microservice based on SDK to implement online customer service handling process.
+        - The system is capable of guaranteeing 500 customer service agents to handle business online, with a daily customer reception of over 15k.
 
  
 
@@ -50,9 +53,10 @@ experience:
       Founded in 2000, Bitauto was listed on the New York Stock Exchange in 2010 and became a member of the Tencent family in November 2020 when it completed its privatization. As a leading automotive Internet company in China, Bitauto provides professional and rich Internet information and shopping guide services for Chinese auto users, and effective Internet marketing solutions for auto manufacturers and auto dealers. <img src="https://gczhao.me/image/experience/yiche.jpeg" /> 
      
       Responsibility: 
-        - Participated in the development of Data Quality System, which  monitors data changes in the data warehouse in multiple dimensions according to preset rules, and pushes alerts to relevant groups. 
-        - Used Spring Boot and Spring Cloud as MicroService Framework.
-        - Participated in the secondary development and maintenance of the big data platform based on [CDH](https://www.cloudera.com/products/open-source/apache-hadoop/key-cdh-components.html). Mainly responsible for Oozie and HUE.
+        - Participated in the development of the Data Quality System, which monitors data changes in the data warehouse in multiple dimensions according to preset rules, and pushes alerts to relevant groups.
+        - Used Spring Boot and Spring Cloud as MicroService Framework. Using MySQL and Redis as high-performance database. Using Hive as the data collection source.
+        - Data Quality System processes approximately 1,500 tasks per day, with a data coverage rate of 75 percent and a notification delivery rate of 98 percent.
+        - Participated in the secondary development and maintenance of the big data platform based on CDH. Mainly responsible for Oozie and HUE.
 
 
 design:
